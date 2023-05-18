@@ -12,7 +12,7 @@ import { onMounted } from "vue";
     
 <footer >
 
-    <div class="px-4 py-6  md:flex md:items-center md:justify-between" data-aos="fade-up">
+    <div class="px-4 py-6  md:flex md:items-center md:justify-between" data-aos="fade-down">
         <span class="text-sm text-gray-500 dark:text-gray-300 sm:text-center">© 2023 Boakye Oduro Samuel. All Rights Reserved.
         </span>
         <div class="flex mt-4 space-x-6 sm:justify-center md:mt-0">
