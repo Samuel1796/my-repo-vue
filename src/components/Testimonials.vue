@@ -20,7 +20,7 @@
 
 
     <!-- Section: Design Block -->
-    <section class="mb-10 px-10  text-center">
+    <section class="mb-10 px-4  text-center">
   
   
       <div class="grid md:grid-cols-3 gap-x-6 xl:gap-x-12">
