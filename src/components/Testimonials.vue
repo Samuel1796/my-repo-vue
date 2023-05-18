@@ -8,7 +8,7 @@
 </script>
 
 <template>
-    <section id="testimonials" class="px-4 pb-10">
+    <section id="testimonials" class="px-2 pb-10">
         <div class="  flex items-center justify-center"  >
             <div class=" mx-4 p-4 text-center md:p-8" data-aos="fade-down">
               <h1 class="topic" 
@@ -20,7 +20,7 @@
 
 
     <!-- Section: Design Block -->
-    <section class="mb-10 px-4  text-center">
+    <section class="mb-10 px-2  text-center">
   
   
       <div class="grid md:grid-cols-3 gap-x-6 xl:gap-x-12">
