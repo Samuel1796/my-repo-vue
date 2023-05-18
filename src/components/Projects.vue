@@ -75,7 +75,7 @@ const items = reactive([
                     <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released on March 6th, 2023</time>
                     <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
                         Let's-Write is a simple website where uses can keep notes and write memos. 
-                        <strong>The site now saves data in a from of JSON. Improvements will be made soon</strong></p>
+                        <strong>The site now saves data in a form of JSON. Improvements will be made soon</strong></p>
                     
                     <img data-aos="fade-up-right" class="h-400 max-w-full" src="@/assets/projects/notes.jpg" alt="image description">
                     
