@@ -1,0 +1,28 @@
+[
+   
+    {
+      "id": 1,
+      "name": "GitHub",
+      "icon": "/src/assets/icons/github.svg",
+      "url": "https://github.com/Samuel1796"
+    },
+    {
+      "id": 2,
+      "name": "Twitter",
+      "icon": "/src/assets/icons/twitter.svg",
+      "url": "https://twitter.com/Samuel_1796?t=vuHVlJpt9qR4gZqEhfQlZA&s=09"
+    },
+    {
+      "id": 3,
+      "name": "LinkedIn",
+      "icon": "/src/assets/icons/linkedin.svg",
+      "url": "https://www.linkedin.com/in/boakye-oduro-samuel-9b8913237"
+    },
+    {
+      "id": 4,
+      "name": "Instagram",
+      "icon": "/src/assets/icons/instagram.svg",
+      "url": "https://instagram.com/s.a.m.u.e.l.6?igshid=ZGUzMzM3NWJiOQ=="
+    }
+  ]
+  

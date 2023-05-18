@@ -1,0 +1,39 @@
+[
+   
+    {
+        "id": 1,
+        "date": "From  June '22",
+        "topic": "Full-Stack Web developer (Freelancer)",
+        "school": "Design and bulid web apps using: ",
+        "tech": [
+   
+            {
+                "id": 1,
+                "lang": "NodeJs"
+            },
+            {
+                "id": 2,
+                "lang": "Bootstrap 5"
+            },
+            {
+                "id": 3,
+                "lang": "Vue.Js | Vuetify"
+            },
+            {
+                "id": 4,
+                "lang": "TailwindCSS"
+            },
+            {
+                "id": 5,
+                "lang": "HTML5 | CSS3 | JQuery"
+            }
+          ]
+          
+    },
+    {
+        "id": 2,
+        "date": "From January '23  ",
+        "topic": "Front-End Web Developer at CSESA (Volunteer)"
+    }
+  ]
+  

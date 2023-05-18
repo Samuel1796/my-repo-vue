@@ -1,0 +1,22 @@
+[
+   
+    {
+        "id": 1,
+        "date": "July '18  -  September '21",
+        "topic": "West African Senior School Certificate",
+        "school": "Obtained at Opoku Ware School"
+    },
+    {
+        "id": 2,
+        "date": "January '22  -  December '22",
+        "topic": "Online Training on web development with NET NINJA",
+        "school": "Trained on programming languages such as Javascript and Python "
+    },
+    {
+        "id": 3,
+        "date": "From January '22",
+        "topic": "Bsc. Computer Science and Engineering",
+        "school": "University of Mines And Technology(UMaT)"
+    }
+  ]
+  
